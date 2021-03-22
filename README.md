@@ -7,7 +7,7 @@ The data can be downloaded from kaggle.
 
 #The Data Description
 
-The dataset contains the following fields:
+The dataset contains the following fields: 
 
 _unit_id: a unique id for user
 _golden: whether the user was included in the gold standard for the model; TRUE or FALSE
